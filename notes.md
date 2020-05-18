@@ -51,7 +51,7 @@ This work resulted in
 
 [urls.py for the War Diaries](War-Diaries-urls.py), [urls.txt for the War Diaries](War-Diaries-urls.py)
 
-### APIs
+## APIs
 I had fun learning the basics of some APIs since for a lot of video games I play, I utilize  fan made sites/tools that rely heavily on API so this was interesting to learn the basics of it.
 
 Refreshed my memory on importing modules, creating and defining variables.
@@ -64,7 +64,7 @@ This work resulted in:
 
 I wanted to play around and tinker with the code for other APIs but unfortunately I did not have the time this week but this will act as a good base to go back to.
 
-### OCR
+## OCR
 
 Faced the same difficulty many other students discussed on discord, that Rstudio would not install through the Conda Navigator. So I followed Dr. Graham's suggested solution to download Rstudio and R separately from the links he provided. I was able to install Rstudio and R follwing the instructions contained in the links and had no issues once I figured out where Rstudio had actually installed.
 
@@ -72,7 +72,7 @@ Learned the basics of Rstudio, how to work in it, how to set the working directo
 
 
 
-### Bonus
+## Bonus
 
 I really wanted to get into the bonus work this week becaus the topic really interested me, and transcribing videos (And downloading youtube videos...) is interesting and I wanted to play around in it. I may use some of my free time on Victoria Day to go back to it, or I may just take the whole day off and re-visit this later.
 
