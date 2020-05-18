@@ -27,7 +27,7 @@ I faced issues trying to Install Rstudio through the Navigator so I downloaded i
 Other people attempted to download and use it first, which showed some issues that were resolved quickly.
 I at first tried to use just the wget command without wget.exe to see if I could replicate the issues others showcased on Discord, which I did. Then I used the proper notation but ran into more errors as seen in my [first](firstattempt.png) and [second](secondattempt.png) attempts at using wget.
 
-I fiddled around with it for a good hour. I couldn't get wget to work so I found a work around. I copied wget.exe to each of the subfolders I needed it. This seemed to work so I left it at that and was going to ask for furhter help the next day at a more reasonable time. Then I googled the error I got 
+I fiddled around with it for a good hour. I couldn't get wget to work so I found a work around. I copied wget.exe to each of the subfolders I needed it. This seemed to work so I left it at that and was going to ask for further help the next day at a more reasonable time. Then I googled the error I got 
 > wget.exe : The term 'wget.exe' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again
 
 and after reading some answers that didn't help, I went back to the course instructions and looked at my C:\ and realized that I had moved wget.exe to my C:\ drive and not to C:\Windows...
@@ -49,7 +49,7 @@ This work resulted in
 
  [urls.txt for the Laura Gamble Diary](LauraGamble-urls.txt)
 
-[urls.py for the War Diaries](War-Diaries-urls.py), *[urls.txt for the War Diaries](War-Diaries-urls.py)
+[urls.py for the War Diaries](War-Diaries-urls.py), [urls.txt for the War Diaries](War-Diaries-urls.py)
 
 ### APIs
 I had fun learning the basics of some APIs since for a lot of video games I play, I utilize  fan made sites/tools that rely heavily on API so this was interesting to learn the basics of it.
