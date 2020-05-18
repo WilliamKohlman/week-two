@@ -70,7 +70,7 @@ Faced the same difficulty many other students discussed on discord, that Rstudio
 
 Learned the basics of Rstudio, how to work in it, how to set the working directory, how to install packages, libraries, how to run stuff, etc. 
 
-
+This resulted in numerous jpg and txt files for these images which are included in my week two repository.
 
 ## Bonus
 
