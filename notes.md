@@ -1,5 +1,5 @@
 # Week Two Notes
-This time a proper catalogue of things I've done!
+
 
 ## Anaconda 
 [![I will always think of this when hearing anaconda](http://img.youtube.com/vi/LDZX4ooRsWs/0.jpg)](http://www.youtube.com/watch?v=LDZX4ooRsWs)
@@ -76,3 +76,7 @@ Learned the basics of Rstudio, how to work in it, how to set the working directo
 
 I really wanted to get into the bonus work this week becaus the topic really interested me, and transcribing videos (And downloading youtube videos...) is interesting and I wanted to play around in it. I may use some of my free time on Victoria Day to go back to it, or I may just take the whole day off and re-visit this later.
 
+
+
+### Other
+I think I did a better job of characterizing what I accomplished this week, and the errors faced, however I am still working on detailing and discussing everything I've done instead of just showing the finished project so feedback is appreciated.
